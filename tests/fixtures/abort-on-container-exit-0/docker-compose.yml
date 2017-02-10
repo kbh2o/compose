@@ -3,4 +3,4 @@ simple:
   command: top
 another:
   image: busybox:latest
-  command: exit 42
+  command: ls /
